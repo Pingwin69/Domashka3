@@ -970,8 +970,68 @@ footer .buttons a:hover i{
 	.linethrought-footer {
 		width: 230px;
 	}
-
-
-
-
+}
+@media(max-width: 320px){
+	.container4 .ph_block {
+		width: 50px;
+		height: 40px;
+		top: 0%;
+	}
+	.container4 .ph_block div {
+		margin: 12px 18px;
+	}
+	.container5 .ph_block {
+		width: 50px;
+		height: 40px;
+		top: 0%;
+	}
+	.container5 .ph_block div {
+		margin: 12px 18px;
+	}
+	.container4 h2 {
+		font-size: 20px;
+	}
+	.container4 .text-inActive {
+		width: 150px;
+		font-size: 12px;
+	}
+	.container5 h2 {
+		font-size: 16px;
+	}
+	.container5 .text1 {
+		width: 120px;
+	}
+	.container4 h2 {
+		padding-top: 7px;
+		padding-bottom: 15px;	
+		padding-left: 40px;
+	}
+	.container5 .line {
+		margin-left: 55px;
+	}
+	.container4.work-it .text-inActive {
+		width: 130px;
+		padding-top: 3px;
+	}
+	.container4 .ph_block span {
+		font-size: 12px;
+	}
+	}.container5 .ph_block span {
+		font-size: 12px;
+	}
+	footer h1 {
+		font-size: 30px;
+	}
+	.linethrought-footer {
+		width: 140px;
+	}
+	footer p {
+		font-size: 25px;
+	}
+	footer .foot1 img {
+		max-width: 100px;
+	}
+	.foot3 {
+		font-size: 11px;
+	}
 }
